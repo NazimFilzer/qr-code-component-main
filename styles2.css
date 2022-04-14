@@ -22,7 +22,7 @@ body {
     margin: auto;
     padding: 16px 16px;
     position: relative;
-    top: 170px;
+    top: 135px;
 }
 
 .card img {
@@ -30,9 +30,10 @@ body {
     align-self: center;
     max-width: 100%;
     border-radius: 10px;
-    
+
 }
-.t1{
+
+.t1 {
     font-family: 'Outfit', sans-serif;
     font-weight: 700;
     font-size: 26px;
@@ -41,15 +42,17 @@ body {
     text-align: center;
 }
 
-.t2{
+.t2 {
     font-family: 'Outfit', sans-serif;
     font-weight: 400;
     width: 298px;
     text-align: center;
-    color: hsl(212deg 11% 51%); 
+    color: rgb(87, 93, 100);
 }
-.attribution{
-    top: 179px;
+
+.attribution {
+    top: 150px;
     margin: auto;
     position: relative;
 }
+
